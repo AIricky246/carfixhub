@@ -1,0 +1,8 @@
+{
+  "name": "CarFixHub",
+  "description": "AI-powered car diagnostics dashboard. Describe problems, upload photos, and get instant mechanic-level guidance and part identification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
